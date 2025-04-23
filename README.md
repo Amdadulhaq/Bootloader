@@ -1,4 +1,4 @@
-# Bootloader
+# OS Bootloader and Kernel
 This project is a basic operating system written from scratch using Assembly (for the bootloader) and C (for the kernel). The bootloader loads the kernel and shows simple output on the screen.
 
 🛠️ Built and tested on Ubuntu using:
